@@ -43,4 +43,4 @@ def health_predict():
     	return Response( '{}', status=200, mimetype='application/json' )
 
 if __name__ == '__main__':
-    app.run('0.0.0.0', debug=True)
+    app.run('192.168.15.7', debug=True)
