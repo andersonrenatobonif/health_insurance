@@ -71,6 +71,8 @@ Os funcionários do cliente usam o google planilha para realizar o acompanhament
 
 Foi adicionado um botão onde o funcionário pode gerar o score e ordenação dos clientes que adiciona a planilha.
 
+A planilha pode ser acessado através desse link <a href="https://docs.google.com/spreadsheets/d/1y2yzBCq8rhPkdMPjnO-RbAwoIwsDB0yMYAWmvkysvqo/edit?usp=sharing" target="_blank"    class="icon solid fa-chart-line"><span class="label">Google sheets do modelo em produção</span></a>
+
 
 
 # 5- Conclusão
